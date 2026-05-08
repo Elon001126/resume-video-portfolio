@@ -1,3 +1,16 @@
 # resume-video-portfolio
 
-Initial repository placeholder. The full portfolio project will be uploaded in the next commit.
+Personal resume and short-video portfolio site built with Vite, React, TypeScript, Tailwind, Motion/GSAP-ready animation tooling, and video hosting integrations.
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
